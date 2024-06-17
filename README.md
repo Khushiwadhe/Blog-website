@@ -1,0 +1,1 @@
+ This is a very good project to practice full stack development. I developed a Blog Website using Node.js,  EJS, and MongoDB. Users can create, read, edit, and delete blog posts. It features a clean, user-friendly interface .
